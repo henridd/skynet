@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, World!");
+var counter = 10;
+
+Console.WriteLine($"Hello, World! {counter}");
